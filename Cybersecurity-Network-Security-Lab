@@ -1,0 +1,37 @@
+Cybersecurity-Network-Security-Lab/
+│
+├── README.md
+│
+├── 01-Nmap-Scanning/
+│   ├── TCP_Scan.md
+│   ├── UDP_Scan.md
+│   ├── Service_Detection.md
+│   ├── OS_Detection.md
+│   ├── scan-report.pdf
+│   ├── screenshots/
+│   │    ├── tcp-scan.png
+│   │    ├── service-scan.png
+│   │    └── os-detection.png
+│
+├── 02-Vulnerability-Assessment/
+│   ├── OpenVAS-Setup.md
+│   ├── Vulnerability-Analysis.md
+│   ├── vulnerability-report.pdf
+│   ├── screenshots/
+│
+├── 03-Wireshark-Packet-Analysis/
+│   ├── HTTP-Analysis.md
+│   ├── FTP-Analysis.md
+│   ├── DNS-Analysis.md
+│   ├── TCP-Analysis.md
+│   ├── Packet-Capture.pcapng
+│   ├── screenshots/
+│
+├── 04-Firewall/
+│   ├── IPTables.md
+│   ├── Firewall-Report.pdf
+│   ├── screenshots/
+│
+├── assets/
+│
+└── LICENSE
